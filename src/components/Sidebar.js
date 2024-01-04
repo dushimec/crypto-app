@@ -50,11 +50,11 @@ const Sidebar = () => {
       <SidebarFooter className="text-center m-2">
         Made by{" "}
         <a
-          href="https://github.com/Vivek-Vishwakarma"
+          href="https://github.com/dushimec"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Vivek Vishwakarma
+          ChrisDev
         </a>
       </SidebarFooter>
     </ProSidebar>
